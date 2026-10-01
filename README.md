@@ -59,6 +59,9 @@ Portafolio web personal hecho con Bootstrap, a partir de la plantilla **Grayscal
 
 10. **Corrección de detalles.** Se revisó que todos los enlaces funcionaran, se corrigió un error en el enlace del correo (`mailto`) y se quitó un ícono que generaba un error 404 en la consola.
 
+11. **Modificaciones** Sobre apartados inexistentes en la plantilla original.
+
+
 ## Capturas de pantalla
 
 **Inicio:**
