@@ -87,6 +87,8 @@ Portafolio web personal hecho con Bootstrap, a partir de la plantilla **Grayscal
 
 ## Estructura del proyecto
 
+## Estructura del proyecto
+
 ```
 ├── index.html
 ├── README.md
@@ -97,8 +99,14 @@ Portafolio web personal hecho con Bootstrap, a partir de la plantilla **Grayscal
 └── img/
     ├── foto-perfil.png
     ├── logo.png
+    ├── inicio.png
+    ├── sobremi.png
+    ├── educacion.png
+    ├── certificados.png
     ├── certificadoPro.png
     ├── certificadoSim.png
+    ├── proyectos.png
+    ├── contactos.png
     ├── image.png
     ├── image2.png
     └── image3.png
